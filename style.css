@@ -1,0 +1,10 @@
+body {
+    background-color: yellow;
+    color:black;
+    padding: 15px;
+}
+
+
+#gameReviews{
+    float : right
+}
